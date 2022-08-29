@@ -1,2 +1,2 @@
-Nanyhel Web
+Nanyhel
 ---
