@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://nanyhel.github.io/</loc>
+    <loc>https://nanyhel.github.io/nanyhel/</loc>
     <lastmod>2022-08-28T19:21:16-05:00</lastmod>
   </url><url>
-    <loc>https://nanyhel.github.io/post/</loc>
+    <loc>https://nanyhel.github.io/nanyhel/post/</loc>
     <lastmod>2022-08-28T19:21:16-05:00</lastmod>
   </url><url>
-    <loc>https://nanyhel.github.io/post/rsyslog-con-docker/</loc>
+    <loc>https://nanyhel.github.io/nanyhel/post/rsyslog-con-docker/</loc>
     <lastmod>2022-08-28T19:21:16-05:00</lastmod>
   </url><url>
-    <loc>https://nanyhel.github.io/categories/</loc>
+    <loc>https://nanyhel.github.io/nanyhel/categories/</loc>
   </url><url>
-    <loc>https://nanyhel.github.io/tags/</loc>
+    <loc>https://nanyhel.github.io/nanyhel/tags/</loc>
   </url>
 </urlset>

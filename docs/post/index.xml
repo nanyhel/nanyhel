@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on Nanyhel Web</title>
-    <link>https://nanyhel.github.io/post/</link>
+    <link>https://nanyhel.github.io/nanyhel/post/</link>
     <description>Recent content in Posts on Nanyhel Web</description>
     <image>
-      <url>https://nanyhel.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://nanyhel.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://nanyhel.github.io/nanyhel/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://nanyhel.github.io/nanyhel/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 28 Aug 2022 19:21:16 -0500</lastBuildDate><atom:link href="https://nanyhel.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 28 Aug 2022 19:21:16 -0500</lastBuildDate><atom:link href="https://nanyhel.github.io/nanyhel/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Rsyslog Con Docker</title>
-      <link>https://nanyhel.github.io/post/rsyslog-con-docker/</link>
+      <link>https://nanyhel.github.io/nanyhel/post/rsyslog-con-docker/</link>
       <pubDate>Sun, 28 Aug 2022 19:21:16 -0500</pubDate>
       
-      <guid>https://nanyhel.github.io/post/rsyslog-con-docker/</guid>
+      <guid>https://nanyhel.github.io/nanyhel/post/rsyslog-con-docker/</guid>
       <description>Rsyslog server en un contenedor docker. En este post vamos a correr un contenedor con rsyslog como servidor en docker. Rsyslog es un servicio que se encarga de la recolección de los logs en los sistemas operativos linux.
 Primero generar el archivo Dockerfile, como se se muestra a continuación:
 FROM ubuntu:20.04 RUN apt update &amp;amp;&amp;amp; apt install rsyslog -y RUN echo &amp;#39;$ModLoad imudp \n\ $UDPServerRun 514 \n\ $ModLoad imtcp \n\ $InputTCPServerRun 514 \n\ $template RemoteStore, &amp;#34;/var/log/remote/%HOSTNAME%/%$year%%$Month%%$Day%.</description>
