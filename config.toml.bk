@@ -1,0 +1,5 @@
+baseURL = 'http://example.org/'
+languageCode = 'es-pe'
+title = 'Nanyhel'
+theme = "PaperMod"
+
